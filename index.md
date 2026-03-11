@@ -16,12 +16,6 @@ A complete end-to-end predictive analytics project demonstrating data cleaning, 
 
 [View the project](https://github.com/DhivyashreeR/Predictive_Analysis)
 
-
-## About Me
-I’m a data analyst with experience in Python, SQL, Power BI, and machine learning. I enjoy building end-to-end analytics solutions that solve real business problems.
-
 ## Contact
-- LinkedIn: (www.linkedin.com/in/dhivyashree-ravichandran-41690a1a9)
-- GitHub: https://github.com/DhivyashreeR
-- Email: dhivya281001@gmal.comsolutions that solve real business problems.
-
+- LinkedIn: [www.linkedin.com/in/dhivyashree-ravichandran-41690a1a9](www.linkedin.com/in/dhivyashree-ravichandran-41690a1a9)
+- Email: [dhivya281001@gmal.com](dhivya281001@gmal.com)
