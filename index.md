@@ -1,9 +1,10 @@
-DHIVYASHREE RAVICHANDRAN
-Data Analyst & Machine Learning Enthusiast
+## DHIVYASHREE RAVICHANDRAN
+**DevOps Engineer | Site Reliability Engineer (SRE) | Data Analyst | Cloud & ETL | Machine Learning**
 
-Welcome to my portfolio. I work at the intersection of predictive analytics, machine learning, and data‑driven storytelling, transforming raw data into insights that support real business decisions. This space highlights the projects I’ve built end‑to‑end, including a comprehensive Customer Churn Prediction system developed using Python and multiple machine‑learning models. Each project reflects my focus on clean data workflows, thoughtful analysis, and practical, real‑world impact.
+Welcome to my portfolio.I work across datas, machine learning models and cloud‑based ETL engineering, combining strong software‑engineering foundations with modern predictive modeling. With 2.5+ years of experience in Mainframe Development and Platform Engineering and a Master’s in Data Analytics, I specialize in building end‑to‑end data solutions that span data pipelines, warehousing architectures, and advanced ML systems. My portfolio showcases practical, production‑oriented work that demonstrates my ability to transform complex datasets into reliable, actionable insights.
 
-## Featured Project: Customer Churn Prediction
+## Featured Project: 
+## Customer Churn Prediction
 A full predictive analytics workflow:
 - Data cleaning & preprocessing
 - Leakage removal
@@ -14,10 +15,6 @@ A full predictive analytics workflow:
 A complete end-to-end predictive analytics project demonstrating data cleaning, preprocessing, model training, evaluation, and saving trained models.
 
 [View the project](https://github.com/DhivyashreeR/Predictive_Analysis)
-
-## Beginner Guide: What Is Predictive Analytics?
-A simple, beginner-friendly explanation of predictive analytics with real examples from my churn project.
-
 
 
 ## About Me
